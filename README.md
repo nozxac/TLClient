@@ -19,3 +19,5 @@ then, Have Fun!
 Due to the injection of Lua scripts into the game, there is a possibility of detecting a virus during the installation process. Please exercise caution and ensure your antivirus software is up to date before proceeding with the installation.
 
 I am not liable for any in-game bans resulting from the use of this client.
+
+DDNet, DDNet Client, Teeworlds, Teeworlds Client, Teeworlds Hack, DDNet Hack
